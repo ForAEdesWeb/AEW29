@@ -54,8 +54,8 @@ class JConfig {
 	public $sef_suffix = '1';
 	public $unicodeslugs = '1';
 	public $feed_limit = '10';
-	public $log_path = '/var/www/factory.aedew.com/logs';
-	public $tmp_path = '/var/www/factory.aedew.com/tmp';
+	public $log_path = '/var/www/quai-bicycle.com/logs';
+	public $tmp_path = '/var/www/quai-bicycle.com/tmp';
 	public $lifetime = '15';
 	public $session_handler = 'database';
 	public $memcache_persist = '1';
